@@ -41,6 +41,7 @@
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=MAN999999999_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MAN999999999)](https://github.com/anuraghazra/github-readme-stats)
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=MAN999999999&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 > ***愿在正确的时间,遇到正确的人,仅以这些献给未来的孩子,😊***
 
