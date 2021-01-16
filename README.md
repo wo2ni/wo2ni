@@ -1,4 +1,4 @@
-## 👋 生命不熄 折腾不止 👋
+## 👋 生命不熄,折腾不止 👋
 ---
 <img align="right" alt="GIF" src="https://tp1.tupiankucdn.com/ws/large/006uRUASly1fxewze0tvqg309105kkc9.gif" />
 
@@ -9,9 +9,8 @@
 - ⚡ 热爱计算机编程 
 - ⚡ 热爱电子电路 
 - ⚡ 崇尚自由
-- 最爱吃***米饭***鱼肉***青菜***
+- 最爱吃***鱼肉***米饭***青菜***
 - 做自己爱做的事,
-- ⭐ 愿在正确的时间,遇见正确的人;
 
 
 ### 🛠 技术栈 | Tech Stack
@@ -31,23 +30,17 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - ...
 
-### 开源项目
-- [SZhe_Scan 碎遮Web漏洞扫描器](https://github.com/Cl0udG0d/SZhe_Scan)
-- [在edusrc，补天等漏洞平台上对于一些通用漏洞检测时编写的简单python POC脚本](https://github.com/Cl0udG0d/edusrc_POC)
-- [基于python3的fofa爬虫](https://github.com/Cl0udG0d/Fofa-script)
-- [scrapy框架西刺代理爬取保存json](https://github.com/Cl0udG0d/proxy_pool)
-- [学习Linux shell编程的时候的一些脚本](https://github.com/Cl0udG0d/Shell-script)
-- ...
-
 ### 正在做的事
-- AutumnWater 秋水SRC平台 基于python语言开发的开源漏洞响应平台
-- AWD训练平台 基于GO语言开发
-- 学习前端
-- 学习内网渗透
+- 学习 dwm
+- 学习 高级Linux技术
+- 学习 Black_Arch_Linux
+- 学习 C语言
+- 学习 走出抑郁人生
+- 学习 享受孤独
 
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=Cl0udG0d&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-> ***做技术的黑客心态加上开放共进的态度是成长和越过高山幽谷的秘籍😊***
+> ***愿在正确的时间,遇到正确的人,仅以这些献给未来的孩子,😊***
 
 
-⭐️ From [Cl0udG0d](https://github.com/Cl0udG0d)
+⭐️ From [Cl0udG0d](https://github.com/MAN999999999)
