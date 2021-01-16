@@ -1,19 +1,17 @@
-## 生命不熄 折腾不止 👋
+## 👋 生命不熄 折腾不止 👋
 ---
 <img align="right" alt="GIF" src="https://tp1.tupiankucdn.com/ws/large/006uRUASly1fxewze0tvqg309105kkc9.gif" />
 
 ### 感谢自己还有梦!
 
 - 西安某***大学***计算机专业,大一学渣;
-- ⚡ 热爱计算机编程 
 - ⚡ 热爱GNU/Linux
+- ⚡ 热爱计算机编程 
 - ⚡ 热爱电子电路 
 - ⚡ 崇尚自由
-- 💬 扣扣邮箱，欢迎一起讨论学习：[2585614464@qq.com](mailto:2585614464@qq.com)
-- ⭐ [博客园](https://www.cnblogs.com/Cl0ud/)
-- ⭐ 暴躁喷子 键盘侠
 - 最爱吃***米饭***鱼肉***青菜***
 - 做自己爱做的事,
+- ⭐ 愿在正确的时间,遇见正确的人;
 
 
 ### 🛠 技术栈 | Tech Stack
