@@ -17,17 +17,11 @@
 
 - 💻 &#160; ![Python](https://img.shields.io/badge/python-3-blue)
 ![C](https://img.shields.io/badge/C-%E8%AF%AD%E8%A8%80-red)
-![Go](https://img.shields.io/badge/Go-Lang-green)
-![PHP](https://img.shields.io/badge/PHP-5-brightgreen)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![Shell](https://img.shields.io/badge/Bash-Shell-lightgrey)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-3-red)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - ...
 
 ### 正在做的事
