@@ -1,4 +1,4 @@
-## 念念不忘 必有回响 👋
+## 生命不熄 折腾不止 👋
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
