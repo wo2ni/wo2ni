@@ -1,6 +1,6 @@
 ## 生命不熄 折腾不止 👋
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://tp1.tupiankucdn.com/ws/large/006uRUASly1fxewze0tvqg309105kkc9.gif" />
 
 ### I'm Cl0udG0d 
 
