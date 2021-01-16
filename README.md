@@ -2,9 +2,9 @@
 ---
 <img align="right" alt="GIF" src="https://tp1.tupiankucdn.com/ws/large/006uRUASly1fxewze0tvqg309105kkc9.gif" />
 
-### I'm Cl0udG0d 
+### 感谢自己还有梦!
 
-- 重庆某大学计算机专业大三学渣 穷究于理，成就于工
+- 西安某***大学***计算机专业大一学渣 热爱计算机,喜欢折腾乱七八糟的东西;
 - ⚡ 低配韩商言 ctf酱油选手 web安全菜鸡
 - 活在当下的程序猿
 - 💬 扣扣邮箱，欢迎一起讨论学习：[2585614464@qq.com](mailto:2585614464@qq.com)
