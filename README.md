@@ -1,6 +1,6 @@
 # 👋 生命不熄,折腾不止 👋
 ---
-<img align="right" alt="GIF" src="https://tp1.tupiankucdn.com/ws/large/006uRUASly1fxewze0tvqg309105kkc9.gif" />
+<img align="right" alt="GIF" src="https://i01piccdn.sogoucdn.com/c1f77c97cbca9c05" />
 
 ### 感谢自己还有梦!
 
