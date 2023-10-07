@@ -8,7 +8,6 @@
 - ⚡ 热爱计算机编程 
 - ⚡ 热爱电子电路 
 - ⚡ 崇尚平等,自由
-- 最爱吃***鱼肉***米饭***青菜***
 - 做自己爱做的事,
 
 
@@ -24,13 +23,7 @@
 - ...
 
 ### 正在做的事
-- 学习 dwm
-- 学习 高级Linux技术
-- 学习 Black_Arch_Linux
-- 学习 C语言
-- 学习 走出抑郁人生
-- 学习 享受孤独
-
+- 摆烂
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=wo2ni&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 > ***愿在对的时间,遇到对的人,仅以这些献给未来的孩子,😊***
