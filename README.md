@@ -35,7 +35,7 @@
 
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=wo2ni&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-> ***相识满天下,知心能几人.***
-### **莫笑他人老，终须还到老.😊***
+> **相识满天下,知心能几人.**
+### **莫笑他人老，终须还到老.😊**
 
 ⭐️ ME [wo2ni](https://github.com/MAN999999999)
