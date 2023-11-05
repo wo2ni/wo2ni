@@ -1,11 +1,11 @@
-<h4 align="center"> :eyes: 访客数 :eyes:</h4>
+<h4 align="center"> :eyes: 訪客數 :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/wo2ni/count.svg" alt="ysx88 :: Visitor's Count" /></a></p>
 
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=21&center=true&lines=%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE%EF%BC%8C%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE;GhostMan+%E7%A5%9D%E4%BD%A0%E4%BB%8A%E6%97%A5%E6%84%89%E5%BF%AB" alt="typing-svg">
 </p>
 
-# 👋 生命不熄,折腾不止 👋
+# 👋 是非只为多开口,烦恼皆因强出头. 👋
 ---
 <img align="right" alt="GIF" src="https://n.sinaimg.cn/tech/transform/344/w137h207/20211229/1b35-1cbf386513517a58c3cf0110755bc903.gif" />
 
@@ -18,7 +18,7 @@
 - 做自己爱做的事,
 
 
-### 🛠 技术栈 | Tech Stack
+### 🛠 技術堆疊 | Tech Stack
 
 - 💻 &#160; ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![C](https://img.shields.io/badge/C-%E8%AF%AD%E8%A8%80-red)
@@ -29,9 +29,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - ...
 
-### 正在做的事
+### 正在做的事.
 
-- 摆烂
+- 擺爛
 
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=wo2ni&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
