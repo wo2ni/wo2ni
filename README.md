@@ -39,3 +39,5 @@
 ### **莫笑他人老，终须还到老.😊**
 
 ⭐️ ME [wo2ni](https://github.com/MAN999999999)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wo2ni&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/wo2ni/github-readme-activity-graph)
