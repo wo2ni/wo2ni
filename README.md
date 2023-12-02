@@ -1,4 +1,8 @@
-<h4 align="center"> :eyes: 訪客數 :eyes:</h4>
+<h2 align="center">
+  Bad-BoY
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 <p align="center"><img src="https://profile-counter.glitch.me/wo2ni/count.svg" alt="ysx88 :: Visitor's Count" /></a></p>
 
 <p align="center">
