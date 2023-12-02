@@ -20,6 +20,8 @@
 
 <img align="right" alt="GIF" src="https://i.gifer.com/6oa.gif" width="250px" />
 
+![GIF](https://i.gifer.com/67Pg.gif)
+
 ### 感谢自己还有梦!
 
 - ⚡ 热爱GNU/Linux
