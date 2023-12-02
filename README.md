@@ -40,4 +40,4 @@
 
 ⭐️ ME [wo2ni](https://github.com/MAN999999999)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wo2ni&theme=chartreuse-dark&area=true&hide_border=true)](https://github.com/wo2ni/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wo2ni&theme=chartreuse-dark&area=true&hide_border=true)]
