@@ -18,9 +18,7 @@
 # 👋 是非只为多开口,烦恼皆因强出头. 👋
 ---
 
-<img align="right" alt="GIF" src="https://i.gifer.com/6oa.gif" width="250px" />
-
-![GIF](https://i.gifer.com/67Pg.gif)
+<img align="right" alt="GIF" src="https://i.mij.rip/2023/12/02/7542f6331e1bebd7ddd2b10b9b3588b6.gif" />
 
 ### 感谢自己还有梦!
 
