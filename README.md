@@ -40,4 +40,4 @@
 
 ⭐️ ME [wo2ni](https://github.com/MAN999999999)
 
-![](https://activity-graph.herokuapp.com/graph?username=${who2ni})
+![](https://activity-graph.herokuapp.com/graph?username=who2ni)
