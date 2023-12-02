@@ -19,7 +19,8 @@
 
 <img align="right" alt="GIF" src="https://i.gifer.com/67Pg.gif" />
 
-<iframe src="https://gifer.com/embed/fxVE" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/fxVE" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 ### 感谢自己还有梦!
 
