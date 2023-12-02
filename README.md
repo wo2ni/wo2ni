@@ -14,13 +14,11 @@
    <img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=21&center=true&lines=%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE%EF%BC%8C%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE;GhostMan+%E7%A5%9D%E4%BD%A0%E4%BB%8A%E6%97%A5%E6%84%89%E5%BF%AB" alt="typing-svg">
 </p>
 
-<img align="right" alt="GIF" src="https://i.gifer.com/67Pg.gif" />
-
-<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/fxVE" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 # 👋 是非只为多开口,烦恼皆因强出头. 👋
 ---
 
+<img align="right" alt="GIF" src="https://i.gifer.com/6oa.gif" />
 
 ### 感谢自己还有梦!
 
