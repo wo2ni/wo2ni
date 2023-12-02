@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d282e7&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f61e4e&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Bad+BoY;I+m'+a+Linux+Openwrt+Developer;I+from+,Internet+Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
 <h2 align="center">
   Welcome
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
