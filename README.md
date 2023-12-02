@@ -47,3 +47,6 @@
 ⭐️ ME [wo2ni](https://github.com/MAN999999999)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wo2ni&theme=chartreuse-dark&area=true&hide_border=true)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d282e7&height=120&section=footer"/>
