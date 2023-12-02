@@ -16,7 +16,7 @@
 
 # 👋 是非只为多开口,烦恼皆因强出头. 👋
 ---
-<img align="right" alt="GIF" src="https://gifsec.com/wp-content/uploads/2022/09/heart-gif-6.gif" />
+<img align="right" alt="GIF" src="https://gifsec.com/wp-content/uploads/2022/09/heart-gif-6.gif"/>
 
 ### 感谢自己还有梦!
 
