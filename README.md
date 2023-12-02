@@ -39,3 +39,5 @@
 ### **莫笑他人老，终须还到老.😊**
 
 ⭐️ ME [wo2ni](https://github.com/MAN999999999)
+
+![](https://activity-graph.herokuapp.com/graph?username=${who2ni})
